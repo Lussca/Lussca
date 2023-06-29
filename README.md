@@ -24,6 +24,4 @@ With over 3 years of experience in the area, I had the opportunity to work on se
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br>
 
-Apaixonado pela tecnologia e o mundo da programação! 🌎👨‍💻
-
 ### Lives todas as quartas, quintas e sextas!💻
