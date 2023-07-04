@@ -15,7 +15,7 @@ With over 3 years of experience in the area, I had the opportunity to work on se
 
 ## Technologies:
 
-<div align="center">
+<div align="start">
   
   ### Front end
   ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
