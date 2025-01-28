@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Pereira<br>Full Stack Software Developer | Software Analyst @G4F</p>
+<p align="left">My name is Lucas Pereira<br>Full Stack Software Developer | Software Analyst</p>
 
 ###
 
