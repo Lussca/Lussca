@@ -68,7 +68,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lussca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lussca&locale=en&mode=weekly&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lussca&radius=16&theme=material-palenight&area=true&order=5&hide_border=true&hide_title=true" height="322" alt="activity-graph graph"  />
 </div>
 
